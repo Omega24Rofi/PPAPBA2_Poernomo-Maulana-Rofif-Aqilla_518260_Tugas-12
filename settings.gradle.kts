@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "pertemuan12"
+rootProject.name = "Notification Counter Like Dislike"
 include(":app")
  

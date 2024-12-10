@@ -1,4 +1,4 @@
-package com.example.pertemuan12
+package com.dimalahmad.notificationcounterlikedislike
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.pertemuan12
+package com.dimalahmad.notificationcounterlikedislike
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.pertemuan12", appContext.packageName)
+        assertEquals("com.dimalahmad.notificationcounterlikedislike", appContext.packageName)
     }
 }
