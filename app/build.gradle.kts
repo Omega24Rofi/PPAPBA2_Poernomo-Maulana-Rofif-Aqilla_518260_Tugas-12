@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dimalahmad.notificationcounterlikedislike"
+    namespace = "com.tugas12.notificationcounterlikedislike"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.dimalahmad.notificationcounterlikedislike"
+        applicationId = "com.tugas12.notificationcounterlikedislike"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
